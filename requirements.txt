@@ -1,0 +1,4 @@
+transformers==4.51.3
+accelerate==1.6.0
+safetensors
+vllm
