@@ -1,7 +1,7 @@
 # <img src="./imgs/logo.png" height="25"> Seed-Coder: Let the Code Model Curate Data for Itself
 
 <p align="center">
-🌐 <a href="https://bytedance-seed-coder.github.io/"> Homepage</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/collections/ByteDance-Seed/seed-coder-680de32c15ead6555c75b0e4">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/.....">arXiv</a>
+🌐 <a href="https://bytedance-seed-coder.github.io/"> Homepage</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/collections/ByteDance-Seed/seed-coder-680de32c15ead6555c75b0e4">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/.....">arXiv (upcoming)</a>
 </p>
 
 We are thrilled to introduce **Seed-Coder** (previously known as Doubao-Coder), a family of lightweight yet powerful open-source code LLMs comprising base, instruct and reasoning models of 8B size. 
