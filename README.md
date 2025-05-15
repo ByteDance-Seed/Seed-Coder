@@ -13,6 +13,7 @@ Seed-Coder represents our initial step towards contributing to the open-source L
 ## 📢 News
 
 [2025/05/08]🔥 We release [Seed-Coder](https://bytedance-seed-coder.github.io)!
+[2025/05/14] We found an inconsistent setting of our BigCodeBench evaluation results. We already updated all the results with the aligned BigCodeBench-Completion setting.
 
 ## 🌟 Highlights
 - **Model-centric:** Seed-Coder predominantly leverages LLMs instead of hand-crafted rules for code data filtering, minimizing manual effort in pretraining data construction.
