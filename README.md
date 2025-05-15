@@ -109,7 +109,7 @@ We evaluated Seed-Coder across a wide range of coding benchmarks, including code
 
 Seed-Coder achieves state-of-the-art performance among open-source models at the 8B scale, and even surpasses some much larger models.
 
-![](./imgs/seed-coder_intro_performance.jpg)
+![](./imgs/seed-coder_intro_performance.png)
 
 For detailed benchmark results and analysis, please refer to our [Technical Report](./Seed-Coder.pdf).
 
