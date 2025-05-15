@@ -30,7 +30,9 @@ We are excited to introduce **Seed-Coder**, featuring three powerful models:
 |-----------------------------|--------|------------------------------------------------------------------------------------|---------------|
 | Seed-Coder-8B-Base          | 32K    | 🤗 [Model](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Base)        |  Pretrained on our model-centric code data. |
 | Seed-Coder-8B-Instruct      | 32K    | 🤗 [Model](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct)    |  Instruction-tuned for alignment with user intent.  |
-| Seed-Coder-8B-Reasoning     | 32K    | 🤗 [Model](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning)   |  RL trained to boost reasoning capabilities. |
+| Seed-Coder-8B-Reasoning     | 64K    | 🤗 [Model](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning)   |  RL trained to boost reasoning capabilities. |
+| Seed-Coder-8B-Reasoning-bf16     | 64K    | 🤗 [Model](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning-bf16)   |  RL trained to boost reasoning capabilities. |
+
 
 All the models are publicly available on [Hugging Face collection](https://huggingface.co/collections/ByteDance-Seed/seed-coder-680de32c15ead6555c75b0e4).  
 
