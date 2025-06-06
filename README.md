@@ -129,7 +129,8 @@ If you find Seed-Coder useful for your research and applications, feel free to g
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2506.03524}, 
-}```
+}
+```
 
 
 ## 📜 License
