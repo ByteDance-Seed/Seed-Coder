@@ -121,16 +121,15 @@ For detailed benchmark results and analysis, please refer to our [Technical Repo
 If you find Seed-Coder useful for your research and applications, feel free to give us a star ⭐ or cite us using:
 
 ```bibtex
-@article{bytedance2025seedcoder,
-    title={Seed-Coder: Let the Code Model Curate Data for Itself},
-    author={Xxx},
-    year={2025},
-    eprint={2504.xxxxx},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    url={https://arxiv.org/abs/xxxx.xxxxx}, 
-}
-``` -->
+@misc{seed2025seedcoderletcodemodel,
+      title={{Seed-Coder}: Let the Code Model Curate Data for Itself}, 
+      author={{ByteDance Seed} and Yuyu Zhang and Jing Su and Yifan Sun and Chenguang Xi and Xia Xiao and Shen Zheng and Anxiang Zhang and Kaibo Liu and Daoguang Zan and Tao Sun and Jinhua Zhu and Shulin Xin and Dong Huang and Yetao Bai and Lixin Dong and Chao Li and Jianchong Chen and Hanzhi Zhou and Yifan Huang and Guanghan Ning and Xierui Song and Jiaze Chen and Siyao Liu and Kai Shen and Liang Xiang and Yonghui Wu},
+      year={2025},
+      eprint={2506.03524},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.03524}, 
+}``` -->
 
 ## 📜 License
 This project is licensed under MIT License. See the [LICENSE](./LICENSE) file for details.
